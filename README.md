@@ -21,7 +21,7 @@ This project has two main parts:
 ### 1. Clone the Repository  
 Run the following command to clone the repository:  
 ```bash
-git clone https://github.com/username/music-player-app.git
+https://github.com/0rishav/music-player-app.git
 cd music-player-app
 ```
 
