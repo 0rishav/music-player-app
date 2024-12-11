@@ -10,6 +10,7 @@ Music Player App is a feature-rich application that provides an immersive music 
 **Development Period:**  
 ```plaintext
 1st December 2024 – 10th December 2024
+```
 
 # How to Run the Project
 This project has two main parts:
@@ -22,6 +23,7 @@ Run the following command to clone the repository:
 ```bash
 git clone https://github.com/username/music-player-app.git
 cd music-player-app
+```
 
 ### 2. Set Up the Environment Variables  
  **backend** require environment variables.
@@ -33,6 +35,7 @@ Create a `.env` file in the `backend/` folder and add the following variables:
 PORT=8000
 MONGO_URL=your-mongodb-connection-string
 JWT_SECRET=your-jwt-secret-key
+```
 
 ### 3. Install Dependencies  
 To install the necessary dependencies for both the **frontend** and **backend**, follow these steps:
@@ -43,6 +46,7 @@ Navigate to the `backend/` directory and install the dependencies:
 ```bash
 cd backend
 npm install
+```
 
 #### For Frontend
 Navigate to the `frontend/` directory and install the dependencies:
@@ -50,18 +54,21 @@ Navigate to the `frontend/` directory and install the dependencies:
 ```bash
 cd frontend
 npm install
+```
 
 ### Start the Frontend Development Server  
 Navigate to the `frontend/` folder and run the following command to start the frontend development server:
 
 ```bash
 npm run dev
+```
 
 ### Start the Backend Development Server  
 Navigate to the `frontend/` folder and run the following command to start the frontend development server:
 
 ```bash
 Nodemon index.js
+```
 
 ### Technologies Used  
 
