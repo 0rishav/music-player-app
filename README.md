@@ -34,7 +34,6 @@ Create a `.env` file in the `backend/` folder and add the following variables:
 ```env
 PORT=8000
 MONGO_URL=your-mongodb-connection-string
-JWT_SECRET=your-jwt-secret-key
 ```
 
 ### 3. Install Dependencies  
@@ -64,7 +63,7 @@ npm run dev
 ```
 
 ### Start the Backend Development Server  
-Navigate to the `frontend/` folder and run the following command to start the frontend development server:
+Navigate to the `backend/` folder and run the following command to start the frontend development server:
 
 ```bash
 Nodemon index.js
